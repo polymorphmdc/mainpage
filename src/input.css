@@ -2,7 +2,7 @@
 
 @font-face {
     font-family: 'Brice';
-    src:url('src/Brice.otf');
+    src:url('Brice.otf');
   }
 
 @tailwind base;
